@@ -1,15 +1,15 @@
 A basic CRUD Python application.
 
-This scripts are make with Python3 and sqlite3.
+This scripts were made with Python3 and sqlite3.
 
 To compile, download the files, navigate to the directory where the files were saved and enter with the following line of code in bash:
 
-#Linux:
+##Linux:
 	sudo python3 application.py
 
 OR double-click the application.py file icon
 
-#Win:
+##Win:
 	python application.py 
 
 OR double-click the application.py file icon

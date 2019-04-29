@@ -1,4 +1,4 @@
-__A basic CRUD Python application.
+#A basic CRUD Python application.
 
 This scripts were made with Python3 and sqlite3.
 

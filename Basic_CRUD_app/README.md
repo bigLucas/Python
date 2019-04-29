@@ -5,12 +5,12 @@ This scripts were made with Python3 and sqlite3.
 To compile, download the files, navigate to the directory where the files were saved and enter with the following line of code in bash:
 
 -->Linux:
-	sudo python3 application.py
+	  sudo python3 application.py
 
 OR double-click the application.py file icon
 
 -->Win:
-	python application.py 
+	  python application.py 
 
 OR double-click the application.py file icon
 
@@ -20,3 +20,7 @@ Use pyinstaller to generate an .exe file, turning all scripts into a single file
 Just browse to the directory where the files were saved, via the command prompt and execute the following line of code:
 
 pyinstaller --onefile --windowed --noconsole application.py
+
+# References:
+
+  https://www.javatpoint.com/python-tkinter

@@ -19,4 +19,4 @@ This CRUD application saves the data in a sqlite3 database, called clients.db, t
 Use pyinstaller to generate an .exe file, turning all scripts into a single file.
 Just browse to the directory where the files were saved, via the command prompt and execute the following line of code:
 
-pyinstaller --onefile --windowed --noconsole aplicacao.py
+pyinstaller --onefile --windowed --noconsole application.py
